@@ -1,0 +1,41 @@
+#fnameError{
+    font-size: small;
+}
+#lnameError{
+    font-size: small;
+}
+#emailError{
+    font-size: small;
+}
+#passwordError{
+    font-size: small;
+}
+#confirmPasswordError{
+    font-size: small;
+}
+#phoneNumberError{
+    font-size: small;
+}
+form{
+    background-color:black;
+    padding-top: 2em;
+    width:50vw;
+    border-radius: 7px;
+    height: 80vh;
+    
+
+}
+body{
+    background-image: url(../images/body_bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading{
+    background-color: black;
+    margin: 0 auto;
+    width: 80%;
+}
+#submit{
+    color: brown;
+}
