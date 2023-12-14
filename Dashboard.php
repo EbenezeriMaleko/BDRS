@@ -6,8 +6,8 @@
             <a href="./index.php">BDRS</a>
         </div>
         <div class="Rightnav">
-                <a href="#">SERVICE</a>
-                <a href="#">CONTACT US</a>
+                <a href="./service.php">SERVICE</a>
+                <a href="./contactus.php">CONTACT US</a>
                 <a href="./AboutUs.php">ABOUT US</a>
                 <a href="./Admin/login.php">ADMIN</a>
             </div>
